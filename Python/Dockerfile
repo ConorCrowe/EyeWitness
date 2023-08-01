@@ -1,5 +1,4 @@
-FROM phusion/baseimage:master-amd64
-LABEL maintainer Netanel Ravid
+FROM phusion/baseimage:focal-1.0.0-amd64
 
 ARG user=eyewitness
 
